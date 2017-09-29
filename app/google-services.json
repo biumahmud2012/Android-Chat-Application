@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856926224528",
+    "firebase_url": "https://personalchatapplication-6475c.firebaseio.com",
+    "project_id": "personalchatapplication-6475c",
+    "storage_bucket": "personalchatapplication-6475c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856926224528:android:1db605d873ec0d0b",
+        "android_client_info": {
+          "package_name": "com.msoft.mahmud.personalchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856926224528-9re8o5arlcaf1pes6g22evbbilfein3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQ3fGygB5N-VjHcrcPd76mfMSPJwIlJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
